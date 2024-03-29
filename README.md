@@ -17,7 +17,7 @@ I am a Data Scientist with experience in retail, pricing, and finance. I've been
 
 #
 
----
+
 
 <details>
  <summary><h3>👨‍💻 Jesus' Coding Journey</h3></summary>
