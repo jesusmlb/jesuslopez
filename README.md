@@ -14,7 +14,7 @@ I am a Data Scientist with experience in retail, pricing, and finance. I've been
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="TABLEAU" width="60px" style="padding-right:10px;" src="https://camo.githubusercontent.com/b02eca6d76c131e6b6316807fb7d1b1bee359853b88ec8d18cba7a68cbec9d0c/68747470733a2f2f63646e6c2e74626c7366742e636f6d2f73697465732f64656661756c742f66696c65732f70616765732f7461626c6561756c6f676f5f686967687265732e706e67" />
+<img align="left" alt="TABLEAU" width="120px" style="padding-right:10px;" src="https://camo.githubusercontent.com/b02eca6d76c131e6b6316807fb7d1b1bee359853b88ec8d18cba7a68cbec9d0c/68747470733a2f2f63646e6c2e74626c7366742e636f6d2f73697465732f64656661756c742f66696c65732f70616765732f7461626c6561756c6f676f5f686967687265732e706e67" />
 <br />
 
 #
