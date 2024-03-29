@@ -1,10 +1,13 @@
 # Jesus Lopez
 
-**`Data Scientist/Analyst`**
+**`Data Scientist`**
+
+I am a Data Scientist with experience in retail, pricing, and finance. I've been involved in roles where analysing and interpreting data has become one of the most exciting parts because in the end, my findings and how I presented them to my diverse stakeholders gave them enough information about data that they couldn't spot in the first layer.
+
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -13,3 +16,7 @@
 <br />
 
 #
+
+<details>
+ <summary><h3>👨‍💻 Jesus' Coding Journey</h3></summary>
+   My journey began 4 years ago when I was doing my analysis in Excel, I noticed that I wanted to do more functions quickly, and not wait 15 minutes to have the output. When looking for solutions on Youtube I found how Python can help you to analyze a considerable amount of data without depending on Excel. Starting from manipulating my data in CSV format, cleaning, and visualising was a common task. Discovering the libraries for statistical analysis such as *Numpy, Keras, Scipy, Scikit-Learn* was mind-blowing and how quickly I can get to those results whereas in Excel took me a while. Now I am passionate about helping people by showing them and demonstrating how their lives can improved once they know more tools to make their lives easy.
