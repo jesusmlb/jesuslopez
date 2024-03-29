@@ -17,6 +17,8 @@ I am a Data Scientist with experience in retail, pricing, and finance. I've been
 
 #
 
+---
+
 <details>
  <summary><h3>👨‍💻 Jesus' Coding Journey</h3></summary>
    My journey began 4 years ago when I was doing my analysis in Excel, I noticed that I wanted to do more functions quickly, and not wait 15 minutes to have the output. When looking for solutions on Youtube I found how Python can help you to analyze a considerable amount of data without depending on Excel. 
