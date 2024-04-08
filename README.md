@@ -2,8 +2,11 @@
 
 **`Data Scientist`**
 
-I am a Data Scientist with experience in retail, pricing, and finance. I've been involved in roles where analysing and interpreting data has become one of the most exciting parts because, in the end, my findings and how I presented them to my diverse stakeholders gave them enough information about data that they couldn't spot in the first layer.
+👀 Driven by curiosity, I got into the field of data science and have been captivated ever since. I'm excited about helping people streamline their data preprocessing tasks, enabling them to focus on maximizing their business's value.
 
+With proficient technical skills, I aim to increase the value of your data, converting raw information into powerful insights that facilitate informed decision-making.
+
+👨🏻‍💻 Having worked across retail and finance. I've been involved in roles where analysing and interpreting data has become one of the most exciting parts because, in the end, my findings and how I presented them to my diverse stakeholders gave them enough information about data that they couldn't spot in the first layer.
 
 ### 🧰 Languages and Tools
 
