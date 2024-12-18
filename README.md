@@ -16,7 +16,6 @@ With proficient technical skills, I aim to increase the value of data, convertin
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="TABLEAU" width="130px" style="padding-right:10px;" src="https://camo.githubusercontent.com/b02eca6d76c131e6b6316807fb7d1b1bee359853b88ec8d18cba7a68cbec9d0c/68747470733a2f2f63646e6c2e74626c7366742e636f6d2f73697465732f64656661756c742f66696c65732f70616765732f7461626c6561756c6f676f5f686967687265732e706e67" />
 <br />
 
 #
