@@ -1,12 +1,12 @@
 # Jesus Lopez
 
-**`Data Scientist`**
+**`Data Science and Analytics`**
 
-👀 Driven by curiosity, I got into the field of data science and have been captivated ever since. I'm excited about helping people streamline their data preprocessing tasks, enabling them to focus on maximizing their business's value.
+Driven by curiosity, I got into the field of data science and have been captivated ever since. I'm excited about helping people streamline their data preprocessing tasks, enabling them to focus on the important parts of their business.
 
-With proficient technical skills, I aim to increase the value of your data, converting raw information into powerful insights that facilitate informed decision-making.
+With proficient technical skills, I aim to increase the value of data, converting raw information into powerful insights that facilitate informed decision-making.
 
-👨🏻‍💻 Having worked across retail and finance. I've been involved in roles where analysing and interpreting data has become one of the most exciting parts because, in the end, my findings and how I presented them to my diverse stakeholders gave them enough information about data that they couldn't spot in the first layer.
+👨🏻‍💻 Having worked across supply chain, retail, and finance, I've been involved in roles where analyzing and interpreting data has become one of the most exciting parts of my career. Ultimately, my findings and how I presented them to stakeholders provided them with the information needed to take action.
 
 ### 🧰 Languages and Tools
 
